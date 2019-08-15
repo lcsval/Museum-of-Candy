@@ -1,2 +1,2 @@
 # Museum-of-Candy
-Museum of candy html page
+Museum of Candy site
